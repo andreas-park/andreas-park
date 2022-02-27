@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andreas-park
+- 👀 I’m a professor at the university of toronto in Canada 
+- 🌱 I am working on research projects in financial market microstructure, blockchain and crypto-economics, and decentralized finance.
+- 💞️ I'll use Github for the disclosure of code and data that I use in my papers to the extent that I can provide such disclosure given the restrictions that data providers impose.
+- 📫 You can reach me at andreas.park@rotman.utoronto.ca
